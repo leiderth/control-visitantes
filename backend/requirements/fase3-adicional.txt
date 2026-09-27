@@ -1,0 +1,3 @@
+# Dependencia nueva que introduce esta fase. Se agrega al requirements/base.txt
+# del proyecto completo (no se reescribe aquí para no pisar el archivo real).
+qrcode>=7.4,<8
